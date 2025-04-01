@@ -1,0 +1,6865 @@
+[
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Starship/We_Built_This_City.1.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/If_I_Ever_Lose_My_Faith_in_You.4.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Korn/Blind.mid",
+        "progression": [
+            "Gbm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Svalutation.3.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Andre_van_Duin/Het_pizzalied_Effe_wachte..._.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/La_Bionda/One_for_You,_One_for_Me.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jewel/Barcelona.mid",
+        "progression": [
+            "Bm",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zucchero/Per_colpa_di_chi.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Grease/Summer_Saturdays.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/I_Still_Havent_Found_What_Im_Looking_For.mid",
+        "progression": [
+            "Db",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/Sing_A_Song_bonus_track_.mid",
+        "progression": [
+            "C",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Real_McCoy/Another_Night.2.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Julian_Lennon/Too_Late_for_Goodbyes.mid",
+        "progression": [
+            "A",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zero/Vive_chi_vive.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bryan_Adams/Summer_of_69.8.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Temptations/Papa_Was_a_Rolling_Stone.1.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alanis_Morissette/Mary_Jane.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Amos,_Tori/Raspberry_Swirl.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Matthew_Wilder/Break_My_Stride.mid",
+        "progression": [
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Creedence_Clearwater_Revival/Down_on_the_Corner.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Wonder_Stevie/Higher_Ground.2.mid",
+        "progression": [
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/UB40/Maybe_Tomorrow.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Daniele/Fatte_na_pizza.mid",
+        "progression": [
+            "Em",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Something_I_Can_Never_Have.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Chuck_Berry/Rock_Roll_Music.mid",
+        "progression": [
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ricky_Martin/Livin_La_Vida_Loca.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Birthday.2.mid",
+        "progression": [
+            "A",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Paint_It_Black.5.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/The_Way_You_Make_Me_Feel.3.mid",
+        "progression": [
+            "F",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Real_Life/Send_Me_An_Angel.mid",
+        "progression": [
+            "Dm",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Tell_Me_Why.1.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Sylvers/Boogie_Fever.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/When_Doves_Cry.2.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Until_It_Sleeps.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Supremes/Come_See_About_Me.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Phil_Collins/Sussudio.mid",
+        "progression": [
+            "Em",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/CHRISTIE,TONY/Yellow_River.mid",
+        "progression": [
+            "E",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Smashing_Pumpkins/Thirty-Three.1.mid",
+        "progression": [
+            "Gb",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/883/Con_un_deca.1.mid",
+        "progression": [
+            "Em",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Inner_Circle/Bad_to_the_Bone.mid",
+        "progression": [
+            "A",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Marillion/Incommunicado.mid",
+        "progression": [
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Croce_Jim/Bad_Bad_Leroy_Brown.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Angel_of_Harlem.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Yes/Owner_of_a_Lonely_Heart.4.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bee_Gees/Massachusetts.2.mid",
+        "progression": [
+            "G",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Big_Long_Now.mid",
+        "progression": [
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Michele_Zarrillo/La_notte_dei_pensieri.mid",
+        "progression": [
+            "Bm",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Take_the_Long_Way_Home.3.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Creedence_Clearwater_Revival/Down_on_the_Corner.2.mid",
+        "progression": [
+            "Am",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bonnie_Tyler/Its_A_Heartache.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aerosmith/Eat_the_Rich.mid",
+        "progression": [
+            "E",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ruggeri/Nino_no.mid",
+        "progression": [
+            "C",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/George_M._Cohan/Yankee_Doodle_Dandy_Give_My_Regards_to_Broadway.mid",
+        "progression": [
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/The_Beautiful_Ones.mid",
+        "progression": [
+            "Am",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Sweetest_Thing.1.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Edsels/Rama_Lama_Ding_Dong.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eric_Clapton/Cocaine.mid",
+        "progression": [
+            "E",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aswad/Shine.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Boyzone/You_Needed_Me.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nina_Simone/Since_I_Fell_for_You.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Van_Halen/Jump.11.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Fuel.1.mid",
+        "progression": [
+            "Ebm",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Buddy_Holly/Peggy_Sue.3.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Robert_Miles/Children.6.mid",
+        "progression": [
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rossi_Vasco/Un_gran_bel_film.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Something_in_the_Way.1.mid",
+        "progression": [
+            "E",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pooh/Asia_non_Asia.mid",
+        "progression": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Last/Die_Rose_Vom_Worthersee.1.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Without_You.1.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Monkees/Pleasant_Valley_Sunday.mid",
+        "progression": [
+            "A",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Them/Its_All_Over_Now_Baby_Blue.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Barbra_Streisand/Evergreen.1.mid",
+        "progression": [
+            "A",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Drupi/Piccola_e_fragile.2.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Morandi/Banane_e_lamponi.1.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/I_Cant_Get_No_Satisfaction_.3.mid",
+        "progression": [
+            "Gbm",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Sliver.1.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Palemiger_Spatzen/t_Is_weer_Harmonikatijd.mid",
+        "progression": [
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Pointer_Sisters/Im_So_Excited.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Manfred_Mann/Do_Wah_Diddy.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bach_Johann_Sebastian/Lukas_Passion,_BWV_246_96._Chorale_Derselbe_mein_Herr_Jesu_Christ.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Atlanta_Rhythm_Section/Imaginary_Lover.mid",
+        "progression": [
+            "Am",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Enya/Athair_Ar_Neamh.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Shania_Twain/Honey,_Im_Home.mid",
+        "progression": [
+            "Gb",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alanis_Morissette/Joining_You.mid",
+        "progression": [
+            "C",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Erasure/A_Little_Respect.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kaempfert/Strangers_in_the_Night.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bonnie_Tyler/Total_Eclipse_of_My_Heart.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fleetwood_Mac/Everywhere.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Orion.mid",
+        "progression": [
+            "Bm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Archies/Sugar_Sugar.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/One_More_Night.6.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sixpence_None_the_Richer/There_She_Goes.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/You_Know_What_to_Do.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Carl_Douglas/Kung_Fu_Fighting.mid",
+        "progression": [
+            "D",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tracy_Byrd/Watermelon_Crawl.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Daft_Punk/One_More_Time.mid",
+        "progression": [
+            "G",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rossi_Vasco/Giocala.mid",
+        "progression": [
+            "G",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Evans_Bill/Clarinet_Polka.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Bloody_Well_Right.2.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alpentrio_Tirol/Alpentrio_Hitmix_Alpentrio-Medley_Hast_a_bisserl_Zeit_fur_mi_Tepperter_Bua_Hallo_kleine_Traumfrau_Vergiss_die_Liebe_nicht_Ich_freu_mich_schon_auf_dich_Ich_hab_was_ganz_liebs_traumt_von_dir_Geheimnis_der_Johannesnacht_Engel_v._Ma.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doobie_Brothers/Long_Train_Running.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Joe_Cocker/You_Can_Leave_Your_Hat_On.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Aint_My_Bitch.1.mid",
+        "progression": [
+            "Em",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/John_Lennon/Watching_the_Wheels.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/The_Beautiful_Ones.mid",
+        "progression": [
+            "Am",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cranberries/I_Cant_Be_With_You.mid",
+        "progression": [
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/Walking_on_the_Moon.mid",
+        "progression": [
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zucchero/Muoio_per_te.mid",
+        "progression": [
+            "Abm",
+            "Bbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alan_Jackson/Ill_Try.mid",
+        "progression": [
+            "Gb",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Taylor_Dayne/Cant_Get_Enough_of_Your_Love.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Guns_N_Roses/Coma.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bon_Jovi/You_Give_Love_a_Bad_Name.4.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Crow_Sheryl/A_Change_Would_Do_You_Good.mid",
+        "progression": [
+            "E",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Silent_Night.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Hootie_and_the_Blowfish/Only_Wanna_Be_With_You.mid",
+        "progression": [
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Domino_Fats/Im_Walking.2.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Opus_10.mid",
+        "progression": [
+            "G",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Bangles/Eternal_Flame.7.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jane_Child/Dont_Wanna_Fall_in_Love.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beach_Boys/Here_Today.mid",
+        "progression": [
+            "Bm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/J.J._Cale/Cocaine.1.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alabama/Jukebox_in_My_Mind.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Toto/Stop_Loving_You.1.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Svalutation.2.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zebrahead/Get_Back.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/The_Man_Who_Sold_the_World.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alizee/Moi..._Lolita.mid",
+        "progression": [
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Al_cinema.mid",
+        "progression": [
+            "Bm",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zucchero/Scintille.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kaoma/Lambada.mid",
+        "progression": [
+            "Dm",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/R.E.M./Fall_On_Me.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Culture_Beat/Got_to_Get_It.mid",
+        "progression": [
+            "Am",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eagles/Peaceful_Easy_Feeling.3.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Simply_Red/Something_Got_Me_Started.2.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eagles/Life_in_the_Fast_Lane.2.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Black_or_White.3.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rammstein/Das_Modell.mid",
+        "progression": [
+            "Am",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Police/Walking_on_The_Moon.3.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Salt-N-Pepa/Lets_Talk_About_Sex.1.mid",
+        "progression": [
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Hero.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Taxman.2.mid",
+        "progression": [
+            "D",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Annie_Lennox/Dont_Ask_Me_Why.1.mid",
+        "progression": [
+            "Bm",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Blur/Tender.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Heart/Barracuda.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/George_Harrison/My_Sweet_Lord.2.mid",
+        "progression": [
+            "Gbm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cornelius_Brothers/Its_Too_Late_to_Turn_Back_Now.mid",
+        "progression": [
+            "G",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Annie_Lennox/Put_a_Little_Love_in_Your_Heart.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ruggeri/I_dubbi_dellamore.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dream_Theater/Pull_Me_Under.mid",
+        "progression": [
+            "D",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pantera/Suicide_Note,_Part_2.mid",
+        "progression": [
+            "F",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/Batdance.1.mid",
+        "progression": [
+            "Eb",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Temptations/Cloud_Nine.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Tremeloes/My_Little_Lady.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Name_of_the_Game.4.mid",
+        "progression": [
+            "C",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cranberries/Analyse.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Elvis_Presley/Its_Now_or_Never.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Its_Raining_Again.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nancy_Sinatra/These_Boots_Are_Made_for_Walkin.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/De_Nachroave/Sjeng_oan_de_geng.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Come_Together.5.mid",
+        "progression": [
+            "Dm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sweet/Ballroom_Blitz.mid",
+        "progression": [
+            "Dbm",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fleetwood_Mac/Tusk.mid",
+        "progression": [
+            "D",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alain_Barriere/Tu_ten_vas.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Korn/Clown.mid",
+        "progression": [
+            "F",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Causing_a_Commotion.mid",
+        "progression": [
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jerry_Lee_Lewis/High_Blood_Pressure.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Billy_Ocean/Suddenly.mid",
+        "progression": [
+            "F",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Frank_and_Mirella/De_vissers_van_San_Juan.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Black_or_White.4.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Fly_Away_Butterfly_reprise_.mid",
+        "progression": [
+            "C",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cranberries/I_Just_Shot_John_Lennon.1.mid",
+        "progression": [
+            "Eb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celine_Dion/Where_Does_My_Heart_Beat_Now.2.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/George_Baker_Selection/Morning_Sky.1.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cher/Shoop_Shoop_Song.1.mid",
+        "progression": [
+            "G",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eagle-Eye_Cherry/Save_Tonight.mid",
+        "progression": [
+            "Am",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Give_In_to_Me.2.mid",
+        "progression": [
+            "Em",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cheap_Trick/Dream_Police.mid",
+        "progression": [
+            "E",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Honey.1.mid",
+        "progression": [
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Orchestral_Manoeuvres_in_the_Dark/Dream_of_Me.mid",
+        "progression": [
+            "Gb",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Depeche_Mode/Ice_Machine.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bill_Medley/Ive_Had_The_Time_of_My_Life.mid",
+        "progression": [
+            "Dbm",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Bad.3.mid",
+        "progression": [
+            "Am",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/George_McCrae/Rock_Your_Baby.mid",
+        "progression": [
+            "C",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Adriano_Celentano/Una_festa_sui_prati.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Shaggy/Boombastic.1.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Duran_Duran/Hungry_Like_a_Wolf.mid",
+        "progression": [
+            "E",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/A_Taste_of_Honey/Boogie_Oogie_Oogie.mid",
+        "progression": [
+            "D",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Canned_Heat/Going_Up_the_Country.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Glen_Campbell/Dreams_Of_The_Everyday_Housewife.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bruce_Springsteen/Born_in_the_U.S.A..3.mid",
+        "progression": [
+            "E",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Attila/Burn_It_Down.mid",
+        "progression": [
+            "D",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Amy_Grant/Baby_Baby.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Whitesnake/Is_This_Love.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Manhattan_Transfer/Boy_From_New_York_City.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Mamas_and_The_Papas/Monday_Monday.1.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/Inside_Out.2.mid",
+        "progression": [
+            "F",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Randy_Crawford/One_Day_Ill_Fly_Away.4.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Police/Spirits_in_the_Material_World.3.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Erasure/Stop.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Barbra_Streisand/Woman_in_Love.4.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Peter_Gabriel/Sledgehammer.2.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Humperdinck_Engelbert/Radio_Dancing.1.mid",
+        "progression": [
+            "Gbm",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Beastie_Boys/Sabotage.mid",
+        "progression": [
+            "A",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dave_Brubeck/Take_Five.1.mid",
+        "progression": [
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Vangelis/Voices.mid",
+        "progression": [
+            "Dbm",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ramazzotti/Adesso_tu.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/People_Are_Strange.mid",
+        "progression": [
+            "Bb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tommy_Roe/Sheila.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bobby_Bare/Me_and_Bobby_McGee.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Peter_Gabriel/Sledgehammer.6.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Police/Every_Little_Thing_She_Does_Is_Magic.1.mid",
+        "progression": [
+            "Em",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/One_More_Night.2.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Stay_Faraway,_So_Close_.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Domino_Fats/Whole_Lotta_Loving.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Oh,_the_Guilt.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/The_Grouch.mid",
+        "progression": [
+            "A",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Depeche_Mode/Everything_Counts.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Percy_Faith/Theme_from_A_Summer_Place.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bach_Johann_Sebastian/Musette_BWV_Anh.126.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Extreme/More_Than_Words.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Maggie_Mae.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sister_Hazel/All_For_You.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Love_Sculpture/Sabre_Dance.mid",
+        "progression": [
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Supermarket.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/McCartney/Tug_of_War.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Vangelis/Chariots_of_Fire.2.mid",
+        "progression": [
+            "Gb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Champaign/How_About_Us.1.mid",
+        "progression": [
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eddy_Grant/Gimme_Hope_JoAnna.1.mid",
+        "progression": [
+            "Dbm",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Why_Dont_We_Do_It_in_the_Road.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/KC_and_The_Sunshine_Band/Thats_the_Way_I_Like_It.2.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Manhattans/Kiss_and_Say_Goodbye.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rush/New_World_Man.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Lenny_Kravitz/Are_You_Gonna_Go_My_Way.1.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Mysterious_Ways.2.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celine_Dion/Where_Is_the_Love.1.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Elevation.3.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Suzanne_Ciani/The_Velocity_of_Love.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Papa_Dont_Preach.5.mid",
+        "progression": [
+            "F",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sophie_B._Hawkins/Right_Beside_You.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Traffic/John_Barleycorn_Must_Die_.mid",
+        "progression": [
+            "Am",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Immigrant_Song.2.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Eye_of_the_Beholder.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Hollies/Bus_Stop.3.mid",
+        "progression": [
+            "B",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/McCartney/Monkberry_Moon_Delight.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kiss/Shock_Me.mid",
+        "progression": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Stevie_Nicks/Blue_Lamp.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Darude/Sandstorm.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Stewart_Rod/Downtown_Train.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Luci-ah.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kool_and_The_Gang/What_Would_the_World_Be_Without_Music_Let_the_Music_Take_Your_Mind_Medley.mid",
+        "progression": [
+            "Dbm",
+            "Bbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/Roadhouse_Blues.1.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Link_Track_Save_the_Last_Dance_for_Me.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/TLC/Red_Light_Special.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Walter_Murphy/A_Fifth_Of_Beethoven.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dave_Matthews_Band/Crush.mid",
+        "progression": [
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Billy_Joel/Allentown.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bruce_Springsteen/Dancing_in_the_Dark.1.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/End_of_the_Night.mid",
+        "progression": [
+            "D",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/About_a_Girl.2.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Sanctified.1.mid",
+        "progression": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Joe_Cocker/Summer_in_the_City.1.mid",
+        "progression": [
+            "Dm",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Bangles/Walk_Like_an_Egyptian.mid",
+        "progression": [
+            "Dm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Snowbound.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Tragically_Hip/Cordelia.mid",
+        "progression": [
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Smash_Mouth/Cant_Get_Enough_of_You_Baby.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rage_Against_the_Machine/Without_a_Face.mid",
+        "progression": [
+            "G",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Keep_It_Together.2.mid",
+        "progression": [
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tag_Team/Whoomp_There_It_Is_.mid",
+        "progression": [
+            "E",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Tremeloes/My_Little_Lady.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/James/Hanky_Panky.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Michele_Zarrillo/Non_arriveranno_I_nostri.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Umberto_Tozzi/Gloria.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Weezer/Say_It_Aint_So.mid",
+        "progression": [
+            "C",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/Saturday_Night_and_Sunday_Morning.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Susanna.1.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rob_Zombie/Dragula.mid",
+        "progression": [
+            "C",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bee_Gees/Words.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Blaque/Bring_It_All_to_Me.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dream_Theater/Caught_In_A_Web.mid",
+        "progression": [
+            "B",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Harry_Nilsson/Without_You.1.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Keep_It_Together.mid",
+        "progression": [
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/UB40/So_Here_I_Am.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Meat_Loaf/Bat_Out_of_Hell.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/The_Brazilian.mid",
+        "progression": [
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rush/Spirit_of_Radio.1.mid",
+        "progression": [
+            "E",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alice_Cooper/Be_My_Lover.1.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Britney_Spears/..._Baby_One_More_Time.3.mid",
+        "progression": [
+            "Ab",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Grand_Funk_Railroad/Closer_to_Home.mid",
+        "progression": [
+            "D",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Louis_Prima/Buona_Sera.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tom_Petty_and_The_Heartbreakers/Learning_to_Fly.mid",
+        "progression": [
+            "F",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Meat_Loaf/Bat_Out_of_Hell.2.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ZZ_Top/Sleeping_Bag.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/Boogie_Wonderland.2.mid",
+        "progression": [
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Missy_Elliott/Sock_It_2_Me.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/McCartney/Uncle_Albert_Admiral_Halsey.mid",
+        "progression": [
+            "Am",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Police/King_of_Pain.mid",
+        "progression": [
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Technohead/I_Wanna_Be_a_Hippy.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Peter_Cetera/Glory_Of_Love.3.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Its_Raining_Again.2.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Bedtime_Story.1.mid",
+        "progression": [
+            "G",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Iron_Maiden/Revelations.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Teddy_Boy.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roxette/Wish_I_Could_Fly.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Shawn_Mullins/Lullaby.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Spice_Girls/Spice_Up_Your_Life.1.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nat_King_Cole/Mona_Lisa.mid",
+        "progression": [
+            "F",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Backstreet_Boys/My_Heart_Stays_With_You.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dr._Alban/Look_Whos_Talking.1.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jaggerz/The_Rapper.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bonnie_Tyler/Its_A_Heartache.2.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eagles/Life_in_the_Fast_Lane.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Through_the_Never.1.mid",
+        "progression": [
+            "Gb",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Boomtown_Rats/I_Dont_Like_Mondays.mid",
+        "progression": [
+            "Ebm",
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Name_of_the_Game.2.mid",
+        "progression": [
+            "C",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/Get_Off.1.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/OMD/Enola_Gay_OMD_vs._Sash_radio_edit_.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Petula_Clark/I_Dont_Know_How_to_Love_Him.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/All_Apologies.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jars_of_Clay/Crazy_Times.mid",
+        "progression": [
+            "Gbm",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Antonello_Venditti/Roma_capoccia.1.mid",
+        "progression": [
+            "Dm",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/English_Man_In_New_York.2.mid",
+        "progression": [
+            "Bm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dalla/Lanno_che_verra.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Frankie_Goes_to_Hollywood/Relax.3.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nightcrawlers/Push_The_Feeling_On_MK_Dub_Revisted_Edit_.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sinatra/New_York,_New_York_theme_du_film_.1.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mike_+_The_Mechanics/Living_Years.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Hollies/Stop,_Stop,_Stop.1.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Come_as_You_Are.3.mid",
+        "progression": [
+            "E",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Smashing_Pumpkins/1979.1.mid",
+        "progression": [
+            "D",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Offspring/Cool_To_Hate.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Janet_Jackson/Escapade.4.mid",
+        "progression": [
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Come_Together.mid",
+        "progression": [
+            "F",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jethro_Tull/Living_in_the_Past.1.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Stephen_Bishop/On_and_On.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Britney_Spears/Stronger.mid",
+        "progression": [
+            "Ab",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Martin_Ricky/Maria_Un,_Dos,_Tres_.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ricky_Martin/Shes_All_I_Ever_Had.1.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battiato/Vite_parallele.1.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Black_Dog.1.mid",
+        "progression": [
+            "Am",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Immigrant_Song.3.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Antonello_Venditti/Campo_de_fiori.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Eleanor_Rigby.7.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Paper_Cuts.mid",
+        "progression": [
+            "Eb",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Henry_Butler/Orleans_Inspiration.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pooh/Le_canzoni_di_domani.mid",
+        "progression": [
+            "D",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eric_Clapton/Layla.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/George_Baker_Selection/Una_Paloma_Blanca.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Booming_Support/Rode_schoentjes.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Depeche_Mode/Fly_on_the_Windscreen_Final_.mid",
+        "progression": [
+            "Dbm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Herman_s_Hermits/I_m_Into_Something_Good.1.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Shes_So_Cold.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Real_McCoy/Another_Night.1.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Crusaders/Streetlife.1.mid",
+        "progression": [
+            "Abm",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bon_Jovi/Its_My_Life.2.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bob_Dylan/Subterranean_Homesick_Blues.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Asia/Heart_of_the_Moment.1.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Frank_Sinatra/New_York,_New_York_theme_du_film_.mid",
+        "progression": [
+            "Bm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/blink-182/Anthem_Part_Two.mid",
+        "progression": [
+            "C",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Blew.1.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/Love_Her_Madly.3.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Four_Tops/Loco_in_Acapulco.1.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fatboy_Slim/Going_Out_of_My_Head.mid",
+        "progression": [
+            "G",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/DJ_Quicksilver/Bellisima.mid",
+        "progression": [
+            "G",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/Storytellers_04_King_of_Pain.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Baby_Youre_a_Rich_Man.2.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/After_The_Love_Has_Gone.2.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bon_Jovi/Bad_Medicine.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bad_Company/Run_With_The_Pack.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Black_Sabbath/Sabbath_Bloody_Sabbath.1.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Music.mid",
+        "progression": [
+            "Em",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/The_Thing_That_Should_Not_Be.2.mid",
+        "progression": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Shes_So_Cold.1.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Whitney_Houston/My_Love_Is_Your_Love.mid",
+        "progression": [
+            "Bb",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/T_Pau/China_In_Your_Hand.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Browne/Doctor_My_Eyes.1.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jimmy_Gilmer/Sugar_Shack.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Robert_Palmer/Simply_Irresistible.1.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Garbage/Temptation_Waits.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Whats_the_New_Mary_Jane.1.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Lavinia_Jones/Sing_It_to_You.mid",
+        "progression": [
+            "Bm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/When_Love_Comes_to_Town.1.mid",
+        "progression": [
+            "Em",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Renzo_Arbore/Luna_rossa.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fiorello/Finalmente_tu.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Deep_Purple/Fireball.1.mid",
+        "progression": [
+            "B",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alabama/Feels_So_Right.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bellamy_Brothers/Let_Your_Love_Flow.1.mid",
+        "progression": [
+            "G",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/One_Day_In_Your_Life.mid",
+        "progression": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rose_Royce/Love_Dont_Live_Here_Anymore.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/Nothing_Else_Matters.3.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/La_Bouche/Be_My_Lover.1.mid",
+        "progression": [
+            "Dbm",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Human_League/Dont_You_Want_Me.1.mid",
+        "progression": [
+            "Am",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Anastacia/Whyd_You_Lie_To_Me.mid",
+        "progression": [
+            "Am",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zucchero/Ridammi_il_Sole.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/The_Arms_of_Orion.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Van_Halen/Right_Now.2.mid",
+        "progression": [
+            "Dm",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/Roadhouse_Blues.2.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/Sing_A_Song_bonus_track_.1.mid",
+        "progression": [
+            "D",
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Robert_John/Sad_Eyes.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Hall_and_Oates/Family_Man.mid",
+        "progression": [
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/R.E.M./Shiny_Happy_People.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/I_Need_You.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mango/Bella_destate.1.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bach_Johann_Sebastian/Franzosische_Suite_Nr._5,_BWV_816,_Gigue.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Player/Baby_Come_Back.mid",
+        "progression": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Annie_Lennox/There_Must_Be_Angel_Playing_With_My_Heart_.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Buddy_Holly/Everyday.mid",
+        "progression": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Blur/Girls_Boys.mid",
+        "progression": [
+            "B",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Matt_Bianco/Half_a_Minute.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/Sussudio.2.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celine_Dion/Tell_Him.3.mid",
+        "progression": [
+            "Abm",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fleetwood_Mac/Affairs_of_the_Heart.1.mid",
+        "progression": [
+            "Am",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dina_Carroll/Dont_Be_a_Stranger.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bon_Jovi/Always.4.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Captain_Hollywood_Project/More_and_More.mid",
+        "progression": [
+            "Dm",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Counting_Crows/Round_Here.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roxette/Joyride.2.mid",
+        "progression": [
+            "A",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Huey_Lewis_and_The_News/Stuck_With_You.5.mid",
+        "progression": [
+            "C",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Honey.2.mid",
+        "progression": [
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aerosmith/Amazing.mid",
+        "progression": [
+            "Am",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/I_Still_Havent_Found_What_Im_Looking_For.3.mid",
+        "progression": [
+            "Db",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Temptations/My_Girl.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Creedence_Clearwater_Revival/Suzie_Q.5.mid",
+        "progression": [
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kenny_Baker/John_Henry.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Your_Blue_Room.1.mid",
+        "progression": [
+            "A",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/The_Battle_Of_Evermore.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Humperdinck_Engelbert/Portofino.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Michael_George/Outside.mid",
+        "progression": [
+            "Dm",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/Fantasy.1.mid",
+        "progression": [
+            "E",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Steve_Miller_Band/Abracadabra.2.mid",
+        "progression": [
+            "Am",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roxette/How_Do_You_Do.4.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Talking_Heads/Once_in_a_Lifetime.mid",
+        "progression": [
+            "Bm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Patrick_Swayze/Shes_Like_the_Wind.1.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/De_Dijk/Slow_Motion.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Styx/Fooling_Yourself_The_Angry_Young_Man_.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Chi-Lites/Oh_Girl.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fleetwood_Mac/Everywhere.2.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Take_the_Long_Way_Home.2.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Chic/Le_Freak.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Spirit/I_Got_A_Line_On_You.mid",
+        "progression": [
+            "E",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Limp_Bizkit/Nookie.mid",
+        "progression": [
+            "Gb",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/INXS/New_Sensation.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alma_Cogan/Tennessee_Waltz.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Omar/Theres_Nothing_Like_This.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roxette/Joyride.3.mid",
+        "progression": [
+            "Am",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Clash/Should_I_Stay_or_Should_I_Go.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/2_Unlimited/Get_Ready_for_This.mid",
+        "progression": [
+            "Dbm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pink_Floyd/Money.mid",
+        "progression": [
+            "Bm",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Firth_of_Fifth.5.mid",
+        "progression": [
+            "Eb",
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bob_Dylan/I_Want_You.mid",
+        "progression": [
+            "F",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collective_Soul/December.1.mid",
+        "progression": [
+            "D",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Red_5/I_Love_You..._Stop.mid",
+        "progression": [
+            "Gb",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Articolo_31/Tranqi_Funky.mid",
+        "progression": [
+            "Bb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Snap/The_First_the_Last_Eternity_Till_the_End_.1.mid",
+        "progression": [
+            "Bbm",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Smells_Like_Teen_Spirit.6.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jethro_Tull/Living_in_the_Past.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Carpenters/Close_to_You.2.mid",
+        "progression": [
+            "Em",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Elvis_Presley/Wooden_Heart_Muss_I_Denn_.mid",
+        "progression": [
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Asia/Heart_of_the_Moment.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Technotronic/Move_This.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kansas/Fight_Fire_With_Fire.mid",
+        "progression": [
+            "B",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Trance/Breathe.mid",
+        "progression": [
+            "A",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Offspring/Come_Out_and_Play.1.mid",
+        "progression": [
+            "Bm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Laura_Pausini/Unemergenza_damore.2.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pink_Floyd/Shine_On_You_Crazy_Diamond,_Part_One.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bach_Johann_Sebastian/Fugue_24_B_Minor.mid",
+        "progression": [
+            "B",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Oasis/Shakermaker.mid",
+        "progression": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jeffrey_Osborne/Shes_on_the_Left.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Devo/Girl_You_Want.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Spice_Girls/Mama.1.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Andy_Kim/Baby_I_Love_You.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Lemonheads/Mrs_Robinson.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/The_Way_You_Make_Me_Feel.2.mid",
+        "progression": [
+            "E",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mandy_Moore/I_Wanna_Be_With_You.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Smells_Like_Teen_Spirit.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cock_Robin/The_Promise_You_Made.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Cry_For_A_Shadow.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cher/Shoop_Shoop_Song.2.mid",
+        "progression": [
+            "G",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Everly_Brothers/Crying_in_the_Rain.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Adriano_Celentano/Azzurro.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Everclear/Santa_Monica.mid",
+        "progression": [
+            "Em",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bonnie_Tyler/Total_Eclipse_of_My_Heart.2.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eros_Ramazzotti/Cose_della_vita_Cant_Stop_Thinking_of_You_.1.mid",
+        "progression": [
+            "E",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zero/Madame.mid",
+        "progression": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nek/Tutto_di_te.mid",
+        "progression": [
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Last/Frisch_vom_Fass.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/The_Battle_Of_Evermore.1.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Drupi/Piccola_e_fragile.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Paint_It_Black.1.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/No_Doubt/Just_a_Girl.2.mid",
+        "progression": [
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Harold_Faltermeyer/Axel_F.1.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Village_People/Y.M.C.A.mid",
+        "progression": [
+            "B",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pink_Floyd/Comfortably_Numb.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bobby_Bloom/Montego_Bay.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Emerson,_Lake_and_Palmer/Mars,_the_Bringer_of_War.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/People_Are_Strange.2.mid",
+        "progression": [
+            "Bb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Wayne_Jeff/The_Eve_of_the_War.mid",
+        "progression": [
+            "Dm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Everly_Brothers/Bye_Bye_Love.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zucchero/Non_ti_sopporto_piu.mid",
+        "progression": [
+            "Em",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alanis_Morissette/Joining_You.1.mid",
+        "progression": [
+            "C",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Head_Like_a_Hole.1.mid",
+        "progression": [
+            "F",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Korn/Kick_the_PA_feat._The_Sneaker_Pimps_.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Masquerade/Guardian_Angel.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Crosby_Bing/White_Christmas.2.mid",
+        "progression": [
+            "Gb",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alabama/High_Cotton.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Like_A_Virgin.4.mid",
+        "progression": [
+            "Gb",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Crow_Sheryl/Everyday_Is_a_Winding_Road.mid",
+        "progression": [
+            "Em",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bruce_Springsteen/Dancing_in_the_Dark.2.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Andrea_Bocelli/Vivo_Per_Lei.4.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Enya/Orinoco_Flow_Sail_Away_.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ben_Cramer/De_clown.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/All_This_Time.mid",
+        "progression": [
+            "Em",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Like_A_Virgin.2.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Foo_Fighters/This_Is_A_Call.mid",
+        "progression": [
+            "Bb",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Erotica.mid",
+        "progression": [
+            "D",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tom_Jones/Delilah.4.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Des_ree/I_m_Kissing_You.mid",
+        "progression": [
+            "Dm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ozzy_Osbourne/Suicide_Solution.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/883/Non_mi_arrendo.mid",
+        "progression": [
+            "D",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Lady_Madonna.5.mid",
+        "progression": [
+            "C",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Righteous_Brothers/Youve_Lost_That_Lovin_Feelin.2.mid",
+        "progression": [
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gilbert_Becaud/Et_maintenant.1.mid",
+        "progression": [
+            "C",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tom_Jones/Its_Not_Unusual.3.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Whitney_Houston/Im_Your_Baby_Tonight.mid",
+        "progression": [
+            "Abm",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Name_of_the_Game.3.mid",
+        "progression": [
+            "C",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/En_Vogue/My_Lovin_Youre_Never_Gonna_Get_It_.1.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Temptations/Aint_Too_Proud_To_Beg.1.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eurythmics/Love_Is_a_Stranger.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Huey_Lewis_and_The_News/Workin_for_a_Livin.mid",
+        "progression": [
+            "A",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Down_by_the_Seaside.mid",
+        "progression": [
+            "F",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Who/Go_to_the_Mirror_Boy.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eric_Clapton/Lay_Down_Sally.2.mid",
+        "progression": [
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Charles_Aznavour/Emmenez-moi.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Domino_Fats/Blueberry_Hill.1.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roxette/How_Do_You_Do.1.mid",
+        "progression": [
+            "G",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tasmin_Archer/Sleeping_Satellite.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Norwegian_Wood.2.mid",
+        "progression": [
+            "Dbm",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Steely_Dan/Deacon_Blues.1.mid",
+        "progression": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Amos,_Tori/Cornflake_Girl.3.mid",
+        "progression": [
+            "Am",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bob_Seger/Still_The_Same.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jovanotti/Lombelico_del_mondo.1.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doobie_Brothers/Long_Train_Runnin.mid",
+        "progression": [
+            "D",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bryan_Adams/Summer_of_69.4.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Rape_Me.4.mid",
+        "progression": [
+            "Ab",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Day_Tripper.7.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/10cc/Im_Not_In_Love.2.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/I_Have_a_Dream.5.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Traveling_Wilburys/Handle_With_Care.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cranberries/Salvation.1.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Like_A_Virgin.7.mid",
+        "progression": [
+            "Db",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Boney_M./Rivers_Of_Babylon.2.mid",
+        "progression": [
+            "C",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Backstreet_Boys/I_Want_It_That_Way.2.mid",
+        "progression": [
+            "D",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gerard_Cox/t_Is_weer_voorbij_die_mooie_zomer.1.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/John_Elton/Island_Girl.2.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/Sing_A_Song_bonus_track_.3.mid",
+        "progression": [
+            "C",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Black_or_White.1.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Boyz_II_Men/End_of_the_Road.4.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Taxman.3.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Howard_Jones/Life_in_One_Day.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jane_Child/Dont_Wanna_Fall_in_Love.1.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cyndi_Lauper/Time_After_Time.2.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Yes/Shoot_High_Aim_Low.mid",
+        "progression": [
+            "A",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Four_Tops/Reach_Out_Ill_Be_There.1.mid",
+        "progression": [
+            "E",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Norman_Greenbaum/Spirit_in_the_Sky.mid",
+        "progression": [
+            "G",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Pointer_Sisters/Fire.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alliage/Le_temps_qui_court.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Van_McCoy/The_Hustle.3.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kool_and_The_Gang/Ladies_Night.1.mid",
+        "progression": [
+            "Db",
+            "Bbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aerosmith/Pink.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Depeche_Mode/Master_and_Servant.1.mid",
+        "progression": [
+            "Bm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pantera/Walk.mid",
+        "progression": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celine_Dion/The_Power_of_the_Dream.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Geek_Stink_Breath.2.mid",
+        "progression": [
+            "G",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Champaign/How_About_Us.mid",
+        "progression": [
+            "D",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fiorella_Mannoia/Belle_speranze.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nancy_Sinatra/Oh_Lonesome_Me.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Jaded.mid",
+        "progression": [
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Little_Richard/Tutti_Frutti.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eric_Clapton/Before_You_Accuse_Me.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/If_You_Love_Somebody_Set_Them_Free.3.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Chris_Rea/On_the_Beach.2.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Lovin_Spoonful/You_Didn_t_Have_to_Be_So_Nice.mid",
+        "progression": [
+            "Dm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jimmy_James/Ill_Go_Where_Your_Music_Takes_Me.mid",
+        "progression": [
+            "Em",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Go-Go_s/We_Got_The_Beat.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dr._Dre/Keep_Their_Heads_Ringing.mid",
+        "progression": [
+            "F",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cash_Johnny/A_Boy_Named_Sue.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rush/Mystic_Rhythms.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Amos,_Tori/1000_Oceans.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gerard_Joling/Liefde_op_het_eerste_gezicht.mid",
+        "progression": [
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ruggeri/Peter_Pan.mid",
+        "progression": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/David_Dundas/Jeans_On.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Caterina_Caselli/Nessuno_mi_puo_giudicare.mid",
+        "progression": [
+            "Bm",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pink_Floyd/Money.3.mid",
+        "progression": [
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zero/Amando_amando.1.mid",
+        "progression": [
+            "A",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Everclear/Santa_Monica.1.mid",
+        "progression": [
+            "Em",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bach_Johann_Sebastian/Suite_pour_orchestre_No._2_en_Si_mineur,_BWV_1067_II._Rondo.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pearl_Jam/Smile.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Chains.1.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Olivia_Newton-John/Let_Me_Be_There.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dave_Baby_Cortez/The_Happy_Organ.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pink_Floyd/Comfortably_Numb.1.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mike_+_The_Mechanics/Living_Years.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Azzurro.3.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tozzi/Gloria.2.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Erasure/Man_in_the_Moon.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dr._John/Right_Place_Wrong_Time.mid",
+        "progression": [
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Todd_Rundgren/I_Saw_the_Light.mid",
+        "progression": [
+            "Eb",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Una_poltrona.mid",
+        "progression": [
+            "Bm",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Azzurro.2.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/702/Where_My_Girls_At.mid",
+        "progression": [
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Oasis/Champagne_Supernova.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Daniele/Putesse_essere_allero.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Simon_and_Garfunkel/Le_Laureat_Mrs._Robinson.1.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Blue_System/Deja_Vu.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alice_Cooper/Be_My_Lover.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Emozioni.mid",
+        "progression": [
+            "Em",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Erasure/Fingers_Thumbs_Cold_Summers_Day_.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Foo_Fighters/This_Is_A_Call.1.mid",
+        "progression": [
+            "Bb",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Los_Bravos/Black_Is_Black.mid",
+        "progression": [
+            "G",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eagles/Heartache_Tonight.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bob_Dylan/All_Along_the_Watchtower.mid",
+        "progression": [
+            "B",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Spinners/Rubberband_Man.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Morandi/Banane_e_lamponi.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mike_+_The_Mechanics/All_I_Need_Is_a_Miracle.3.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jimmy_Buffett/Volcano.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Wanna_Be_Starting_Something.1.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Temptations/Beauty_Is_Only_Skin_Deep.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Olivia_Newton-John/Summer_Nights.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Snap/Welcome_to_Tomorrow.1.mid",
+        "progression": [
+            "D",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tom_Petty_and_The_Heartbreakers/Learning_to_Fly.1.mid",
+        "progression": [
+            "F",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dalla/Futura.1.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/When_Doves_Cry.1.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Soli.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Scrivi_il_tuo_nome.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Lois_Lane/My_Best_Friend.mid",
+        "progression": [
+            "D",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brenton_Wood/Gimme_Little_Sign.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Harry_Nilsson/Without_You.3.mid",
+        "progression": [
+            "Gb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Bloody_Well_Right.1.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Britney_Spears/..._Baby_One_More_Time.4.mid",
+        "progression": [
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Luther_Vandross/Endless_Love.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cocciante/In_bicicletta.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Biagio_Antonacci/Mi_fai_stare_bene.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Take_a_Chance_on_Me.2.mid",
+        "progression": [
+            "B",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dr._Alban/Look_Whos_Talking.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bee_Gees/New_York_Mining_Disaster_1941.2.mid",
+        "progression": [
+            "Am",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/If_I_Ever_Lose_My_Faith_in_You.2.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Giorgia/Girasole.1.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Monkees/Daydream_Believer.2.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Billie_Jean.1.mid",
+        "progression": [
+            "Gb",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/Roadhouse_Blues.4.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Night_Ranger/Dont_Tell_Me_You_Love_Me.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tom_Jones/Its_Not_Unusual.2.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Stone_Temple_Pilots/Unglued.mid",
+        "progression": [
+            "E",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bernd_Cluver/Ein_Madchen_wie_du.mid",
+        "progression": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roxette/Im_Sorry.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bad_Company/Run_With_The_Pack.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bach_Johann_Sebastian/Brandenburg_Concerto_No._2_in_F_major,_BWV_1047_III._Allegro_assai.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Yes/Mood_for_a_Day.mid",
+        "progression": [
+            "G",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Evans_Bill/Young_and_Foolish.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Lewis_Ramsey/Hang_on_Sloopy.mid",
+        "progression": [
+            "F",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dingetje/Kaplaarzen.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Simon_and_Garfunkel/Le_Laureat_Mrs._Robinson.5.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Antonello_Venditti/Buona_domenica.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gordon_Lightfoot/If_You_Could_Read_My_Mind.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ricky_Martin/Shes_All_I_Ever_Had.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aerosmith/Falling_in_Love_Is_Hard_on_the_Knees_.mid",
+        "progression": [
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Antoine/Taxi.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bryan_Adams/Summer_of_69.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eurythmics/Here_Comes_the_Rain_Again.4.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Hot_Butter/Popcorn.mid",
+        "progression": [
+            "Bm",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mo-Do/Super_Gut.mid",
+        "progression": [
+            "E",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rufus/At_Midnight_My_Love_Will_Lift_You_Up_.mid",
+        "progression": [
+            "Dm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Vince_Guaraldi/Les_Peanuts_Charly_Brown_Snoopy.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aretha_Franklin/Pink_Cadillac.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fleetwood_Mac/Say_You_Love_Me.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eurythmics/Here_Comes_the_Rain_Again.1.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Spencer_Davis_Group/Gimme_Some_Lovin.mid",
+        "progression": [
+            "Dm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Chaplin_Band/Lets_Have_a_Party.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Britney_Spears/..._Baby_One_More_Time.mid",
+        "progression": [
+            "Bb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Frankie_Goes_to_Hollywood/Relax_Frankie_Goes_to_Dreamscape_.1.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Foo_Fighters/My_Poor_Brain.mid",
+        "progression": [
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dave_Grusin/Mountain_Dance.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mariah_Carey/Dream_Lover.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tina_Turner/Golden_Eye.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Veruca_Salt/Seether.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/RICHIE_LIONEL/Hello.5.mid",
+        "progression": [
+            "Am",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Queen/Keep_Yourself_Alive.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Lou_Reed/Walk_On_The_Wild_Side.3.mid",
+        "progression": [
+            "C",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Romina_Power_Al_Bano/Sempre_sempre.1.mid",
+        "progression": [
+            "Gb",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gino_Paoli/Una_lunga_storia_damore.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Eagle-Eye_Cherry/Save_Tonight.1.mid",
+        "progression": [
+            "Dm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zero/Spalle_al_muro.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/If_You_Love_Somebody_Set_Them_Free.4.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/Well_Be_Together.1.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rod_Stewart/Da_Ya_Think_Im_Sexy.1.mid",
+        "progression": [
+            "Dm",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Lucky_Star.2.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cannibal_and_The_Headhunters/Land_of_1000_Dances.mid",
+        "progression": [
+            "E",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Ill_Be_on_My_Way.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Van_Morrison/Moondance.2.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Animals/Sky_Pilot.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Carouselambra.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Alan_Parsons_Project/Lucifer.2.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tozzi/Stella_stai.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alabama/The_Closer_You_Get.mid",
+        "progression": [
+            "C",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Buddy_Holly/Thatll_Be_The_Day.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Lobo/The_Caribbean_Disco_Show.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Corey_Hart/Sunglasses_At_Night.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Blondie/Call_Me.1.mid",
+        "progression": [
+            "Dm",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rush/Stick_It_Out.mid",
+        "progression": [
+            "Bm",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/REO_Speedwagon/Keep_the_Fire_Burning.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Broadway/America.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/When_the_Levee_Breaks.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Korn/No_Place_to_Hide.mid",
+        "progression": [
+            "C",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Oasis/Talk_Tonight.mid",
+        "progression": [
+            "Em",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Crosby,_Stills,_Nash_and_Young/Horses_Through_a_Rainstorm.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Imperial_Teen/Yoo_Hoo.mid",
+        "progression": [
+            "B",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jovanotti/Ragazzo_fortunato.1.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nomadi/Canzone_per_i_desaparecidos.mid",
+        "progression": [
+            "Dm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pooh/50_primavere.1.mid",
+        "progression": [
+            "G",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Searchers/Needles_and_Pins.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Johnson_James_P/Carolina_Shout.mid",
+        "progression": [
+            "C",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pantera/Hollow.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tool/Prison_Sex.mid",
+        "progression": [
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Vengaboys/Kiss.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/McCartney/Heart_of_the_Country.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/New_Age/Spring_Waltz.mid",
+        "progression": [
+            "G",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/With_or_Without_You.3.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/TLC/Creep.mid",
+        "progression": [
+            "Bb",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kraftwerk/The_Model.1.mid",
+        "progression": [
+            "Abm",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Small_Faces/Itchycoo_Park.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Korn/Lowrider.mid",
+        "progression": [
+            "Bbm",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cars/Drive.mid",
+        "progression": [
+            "B",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/R.E.M./Undertow.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dalla/Come_profondo_il_mare.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Dave_Clark_Five/Any_Way_You_Want_It.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cyndi_Lauper/She_Bop.mid",
+        "progression": [
+            "Am",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Love_Me_Do.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Hold_On_My_Heart.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Paint_It_Black.4.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celine_Dion/Damour_ou_damitie.mid",
+        "progression": [
+            "Eb",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alabama/Rain.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Immigrant_Song.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Claude_Debussy/Six_Epigraphes_Antiques-Pour_La_Danseuse_Aux_Crotales.mid",
+        "progression": [
+            "Dm",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Boyzone/Words.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/I_Have_a_Dream.3.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Breakfast_in_America.2.mid",
+        "progression": [
+            "C",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Dont_Let_Me_Down.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Pointer_Sisters/Slow_Hand.2.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beach_Boys/I_Know_Theres_an_Answer.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Snap/Mary_Had_a_Little_Boy.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Paola_Turci/Sai_che_e_un_attimo.mid",
+        "progression": [
+            "Gb",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Mike_Oldfield/Amarok.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pearl_Jam/Daughter.mid",
+        "progression": [
+            "Abm",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Billy_Joel/Youre_Only_Human_Second_Wind_.mid",
+        "progression": [
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sting/If_I_Ever_Lose_My_Faith_in_You.8.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dr._Alban/Hello_Africa.mid",
+        "progression": [
+            "Bb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Al_Stewart/On_The_Border.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Moody_Blues/Your_Wildest_Dreams.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brown_James/I_Got_You_I_Feel_Good_.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brunner_and_Brunner/Immer_wieder,_immer_mehr.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Johannes_Brahms/Hungarian_Dance_Nr_1_In_G_Minor.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dave_Matthews_Band/Halloween.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bruce_Springsteen/Brilliant_Disguise.mid",
+        "progression": [
+            "A",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sonny_and_Cher/The_Beat_Goes_On.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tom_Astor/Hallo,_guten_Morgen_Deutschland.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Survivor/The_Search_Is_Over.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Swingin_Medallions/Double_Shot_Of_My_Baby_s_Love_.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/The_Word.1.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Trance/Dream_Mission.mid",
+        "progression": [
+            "B",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nena/99_Luftballons.mid",
+        "progression": [
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Chaka_Khan/Aint_Nobody.mid",
+        "progression": [
+            "Eb",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sonny_and_Cher/The_Beat_Goes_On.2.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Revolution.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ricky_Martin/Livin_La_Vida_Loca.mid",
+        "progression": [
+            "Eb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/R.E.M./Everybody_Hurts.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Neil_Diamond/Sweet_Caroline.5.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Sanctified.2.mid",
+        "progression": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dream_Theater/Take_the_Time.mid",
+        "progression": [
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Shania_Twain/Ka-Ching.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Slipstream/Computer_Love.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rush/2112.mid",
+        "progression": [
+            "Am",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Polly.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brassens_Georges/Le_Roi.mid",
+        "progression": [
+            "Bm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Pulling_Teeth.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Seals_and_Crofts/Diamond_Girl.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nick_Berry/Heartbeat.mid",
+        "progression": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Una_carezza_in_un_pugno.1.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Humperdinck_Engelbert/Alone_In_The_Night.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brown_James/I_Got_You_I_Feel_Good_.2.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Temptations/My_Girl.2.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Harry_Nilsson/Without_You.2.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/INXS/Bitter_Tears.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Creed/My_Own_Prison.mid",
+        "progression": [
+            "D",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Day_Tripper.1.mid",
+        "progression": [
+            "E",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Elvis_Costello/Green_Shirt.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Honey_Honey.1.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Billy_Joel/Big_Man_on_Mulberry_Street.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/En_Vogue/My_Lovin_Youre_Never_Gonna_Get_It_.mid",
+        "progression": [
+            "Eb",
+            "Bbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Paula_Abdul/Vibeology.1.mid",
+        "progression": [
+            "Gb",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Champs/Tequila.2.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Billy_Joel/Prelude_Angry_Young_Man.1.mid",
+        "progression": [
+            "F",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Frank_Sinatra/Not_as_a_Stranger.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/Another_Day_in_Paradise.4.mid",
+        "progression": [
+            "Em",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Petty/Learning_to_Fly.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Come_Together.1.mid",
+        "progression": [
+            "F",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Deep_Purple/Fireball.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Il_monolocale.mid",
+        "progression": [
+            "Em",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/If_You_Must_demo,_1988_.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cats/Lets_Dance.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doors/Light_My_Fire.10.mid",
+        "progression": [
+            "Am",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bonnie_Tyler/Total_Eclipse_of_My_Heart.3.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/America/Sandman.mid",
+        "progression": [
+            "Am",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Invisible_Touch.5.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ann_Peebles/Come_to_Mama.mid",
+        "progression": [
+            "G",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Keep_Your_Hands_Off_My_Baby.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Limp_Bizkit/Faith.1.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Three_Dog_Night/Mama_Told_Me_Not_To_Come_.1.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bob_Welch/Sentimental_Lady.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Biagio_Antonacci/Non_e_mai_stato_subito.mid",
+        "progression": [
+            "E",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Chordettes/Lollipop.mid",
+        "progression": [
+            "Eb",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/883/Nella_notte.1.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Roy_Orbison/You_Got_It.mid",
+        "progression": [
+            "C",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Chicago/Does_Anybody_Really_Know_What_Time_It_Is.1.mid",
+        "progression": [
+            "C",
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Last/Die_Rose_Vom_Worthersee.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Mighty_Mighty_Bosstones/The_Rascal_King.mid",
+        "progression": [
+            "Eb",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Collins_Phil/Dont_Lose_My_Number.1.mid",
+        "progression": [
+            "D",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Rammstein/Engel.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Spencer_Davis_Group/Gimme_Some_Lovin.2.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Korn/Helmet_In_The_Bush.mid",
+        "progression": [
+            "A",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Janet_Jackson/Escapade.mid",
+        "progression": [
+            "Eb",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Marianne_Faithfull/Summer_Nights.mid",
+        "progression": [
+            "G",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Falco/Der_Kommissar.mid",
+        "progression": [
+            "Am",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Battisti/Dolce_di_giorno.mid",
+        "progression": [
+            "Em",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/BERRY_CHUCK/Johnny_B_Goode.2.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/When_Doves_Cry.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dalla/Piazza_grande.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ABBA/Medley.1.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Vengaboys/Were_Going_to_Ibiza.mid",
+        "progression": [
+            "F",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jackson_Michael/Black_or_White.2.mid",
+        "progression": [
+            "F",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bread/Sweet_Surrender.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Radiohead/No_Surprises.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Head_Like_a_Hole.mid",
+        "progression": [
+            "F",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Claude-Michel_Schonberg/On_My_Own_From_Les_Miserables_.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Black_Sabbath/Supernaut.mid",
+        "progression": [
+            "C",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Dirty_Day.mid",
+        "progression": [
+            "F",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Supertramp/Take_the_Long_Way_Home.1.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tommy_Roe/Dizzy.1.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Warwick,_Dionne/Heartbreaker.mid",
+        "progression": [
+            "Abm",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cure/Apart.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/White_Zombie/Thunder_Kiss_65.mid",
+        "progression": [
+            "E",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Herman_s_Hermits/Silhouettes.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Carboni/Inno_nazionale.mid",
+        "progression": [
+            "A",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Cliff_Richard/Some_People.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celentano/Le_stesse_cose.mid",
+        "progression": [
+            "F",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Toto/Rosanna.4.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bonzo_Dog_Doo_Dah_Band/Monster_Mash.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Foreigner/Urgent.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Corrs/When_Hes_Not_Around.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dvorak/Symphony_No._2_in_B_major,_Op._4_B_12_II._Poco_adagio.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Red_Hot_Chili_Peppers/Higher_Ground.1.mid",
+        "progression": [
+            "Em",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Zucchero/Per_colpa_di_chi.3.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Earth,_Wind_and_Fire/Interlude_Close_to_Home.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alice_Cooper/Be_My_Lover.2.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Aqua/Doctor_Jones.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Andrea_Bocelli/Tosca_E_lucevan_le_stelle....mid",
+        "progression": [
+            "Bm",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Doobie_Brothers/What_A_Fool_Believes.mid",
+        "progression": [
+            "Eb",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Second_Home_by_the_Sea.mid",
+        "progression": [
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Freak_Power/Turn_On,_Turn_In,_Cop_Out.mid",
+        "progression": [
+            "A",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Yes/Owner_of_a_Lonely_Heart.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Boyzone/A_Different_Beat.mid",
+        "progression": [
+            "F",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Don_McLean/Vincent.2.mid",
+        "progression": [
+            "G",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Prodigy/Smack_My_Bitch_Up.1.mid",
+        "progression": [
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Hitchin_a_Ride.1.mid",
+        "progression": [
+            "Ab",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Take_Back.mid",
+        "progression": [
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Matia_Bazar/Per_unora_damore.mid",
+        "progression": [
+            "Dbm",
+            "Ebm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Yes/Roundabout.1.mid",
+        "progression": [
+            "Em",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Carpet_Crawlers.mid",
+        "progression": [
+            "D",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/Firth_of_Fifth.4.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Darude/Sandstorm.1.mid",
+        "progression": [
+            "Em",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/I_Wanna_Be_Your_Man.mid",
+        "progression": [
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Erasure/A_Little_Respect.4.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jethro_Tull/Thick_as_a_Brick.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Prince/Little_Red_Corvette.2.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kingsmen/Louie_Louie.1.mid",
+        "progression": [
+            "Bm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Backstreet_Boys/Everybody_Backstreets_Back_.6.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ana_Caram/La_Cumbia.mid",
+        "progression": [
+            "Eb",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Robbie_Williams/Come_Undone.mid",
+        "progression": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alanis_Morissette/That_I_Would_Be_Good.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Deep_Purple/Black_Night.mid",
+        "progression": [
+            "Em",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Glen_Campbell/Rhinestone_Cowboy.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fool_s_Garden/Wild_Days.1.mid",
+        "progression": [
+            "G",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madness/One_Step_Beyond.mid",
+        "progression": [
+            "C",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/R._Kelly/Fiesta_Remix.mid",
+        "progression": [
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Ringfinger.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Creedence_Clearwater_Revival/Sweet_Hitch-Hiker.mid",
+        "progression": [
+            "D",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Last/Der_Kanarienvogel.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Randy_Crawford/One_Day_Ill_Fly_Away.2.mid",
+        "progression": [
+            "D",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/2_X_4.mid",
+        "progression": [
+            "A",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Duke_Robillard/Rule_the_World.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Scatman_John/Scatmans_World.mid",
+        "progression": [
+            "D",
+            "Em"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Bad.1.mid",
+        "progression": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Sly_and_The_Family_Stone/Dance_to_the_Music.1.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Belinda_Carlisle/Heaven_Is_A_Place_On_Earth.2.mid",
+        "progression": [
+            "A",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Local_H/Bag_of_Hammers.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Liesbeth_List/Brussel.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Toto/Africa.7.mid",
+        "progression": [
+            "A",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/C+C_Music_Factory/Gonna_Make_You_Swat_Everybody_dance_Now_.1.mid",
+        "progression": [
+            "Eb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fleetwood_Mac/Dreams.4.mid",
+        "progression": [
+            "F",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Wilbert_Harrison/Kansas_City.mid",
+        "progression": [
+            "Am",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Oscar_Peterson/Young_and_Foolish.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Starship/Jane.mid",
+        "progression": [
+            "Em",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/I_Need_You.1.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Estefan_Gloria/Hear_My_Voice.3.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bryan_Adams/All_for_Love.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gianni_Bella/Questo_amore_non_si_tocca.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Pulling_Teeth.4.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Robert_Miles/Children.2.mid",
+        "progression": [
+            "F",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Closer.1.mid",
+        "progression": [
+            "D",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Kaempfert/A_Swinging_Safari.2.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Holm,_Michael/Mendocino.mid",
+        "progression": [
+            "D",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Elton_John/Island_Girl.mid",
+        "progression": [
+            "Dm",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ben_Cramer/De_oude_muzikant.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nirvana/Son_of_a_Gun.1.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Backstreet_Boys/As_Long_as_You_Love_Me.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Smashing_Pumpkins/1979.2.mid",
+        "progression": [
+            "D",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Van_Morrison/Into_the_Mystic.2.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Mixed_Emotions.2.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/1910_Fruitgum_Company/Simon_Says.1.mid",
+        "progression": [
+            "A",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Nine_Inch_Nails/Suck.1.mid",
+        "progression": [
+            "Em",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Assia/La-Bas.mid",
+        "progression": [
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Yes/Love_Will_Find_a_Way.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Annie_Lennox/No_More_I_Love_Yous.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Love_Me_Do.3.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fairport_Convention/The_Wounded_Whale.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Pat_Metheny/Are_You_Going_With_Me.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Electric_Light_Orchestra/Dont_Bring_Me_Down.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Cranberries/The_Icicle_Melts.mid",
+        "progression": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Romina_Power_Al_Bano/Felicita.1.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Van_Halen/Jump.12.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Angel_of_Harlem.3.mid",
+        "progression": [
+            "F",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dalla_Lucio/4_marzo_1943.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Turtles/Happy_Thogether.3.mid",
+        "progression": [
+            "Gbm",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Chris_Rea/Two_Roads.1.mid",
+        "progression": [
+            "G",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/Ray_of_Light.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Corrs/So_Young.1.mid",
+        "progression": [
+            "C",
+            "Abm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_B-52_s/Meet_The_Flinstones.2.mid",
+        "progression": [
+            "F",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brassens_Georges/Le_Gorille.mid",
+        "progression": [
+            "D",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alice_in_Chains/No_Excuses.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Everly_Brothers/Wake_Up_Little_Susie.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/La_Isla_Bonita.2.mid",
+        "progression": [
+            "Dbm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Notorious_B.I.G./Notorious_Thugs.mid",
+        "progression": [
+            "D",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Alan_Parsons_Project/The_Raven.1.mid",
+        "progression": [
+            "Eb",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Blind_Melon/No_Rain.1.mid",
+        "progression": [
+            "E",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Salvatore_Adamo/Une_meche_de_cheveux.mid",
+        "progression": [
+            "G",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Neil_Diamond/Sweet_Caroline.3.mid",
+        "progression": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gillespie_Dizzy/Salt_Peanuts.mid",
+        "progression": [
+            "Gb",
+            "Bb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Bruce_Springsteen/Dancing_in_the_Dark.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Village_People/Y.M.C.A.3.mid",
+        "progression": [
+            "B",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Dr._Hook/When_Youre_in_Love_With_a_Beautiful_Woman.2.mid",
+        "progression": [
+            "A",
+            "Gbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Seals_and_Crofts/Summer_Breeze.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Vengaboys/Up_Down.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Allman_Brothers_Band/Jessica.mid",
+        "progression": [
+            "Gbm",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Megadeth/Symphony_of_Destruction.mid",
+        "progression": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Stewart_Rod/The_Motown_Song.mid",
+        "progression": [
+            "A",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Christina_Aguilera/Genie_In_a_Bottle.1.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Green_Day/Do_Da_Da.1.mid",
+        "progression": [
+            "A",
+            "Bm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Last/Rosamunde.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brassens_Georges/Les_patriotes.mid",
+        "progression": [
+            "C",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Whitney_Houston/Im_Your_Baby_Tonight.1.mid",
+        "progression": [
+            "Abm",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Whitney_Houston/You_Give_Good_Love.mid",
+        "progression": [
+            "E",
+            "Dbm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Ramazzotti/Piu_bella_cosa.2.mid",
+        "progression": [
+            "F",
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Monty_Python/Always_Look_on_the_Bright_Side_of_Life.1.mid",
+        "progression": [
+            "Em",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Blues_Brothers/Everybody_Needs_Somebody_to_Love.3.mid",
+        "progression": [
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Christina_Aguilera/Genie_in_a_Bottle.mid",
+        "progression": [
+            "F",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Johnny_Horton/The_Battle_of_New_Orleans.mid",
+        "progression": [
+            "F",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Loesser/Never_Will_I_Marry.mid",
+        "progression": [
+            "Am",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Tozzi/Donna_amante_mia.mid",
+        "progression": [
+            "Ab",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Real_Thing/You_to_Me_Are_Everything.mid",
+        "progression": [
+            "Am",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/E-Rotic/Fred_Come_to_Bed.mid",
+        "progression": [
+            "E",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Led_Zeppelin/Bron-Y-Aur_Stomp.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rascals/Lonely_Too_Long.mid",
+        "progression": [
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Four_Seasons/Sherry_Walk_Like_a_Man_Big_Girls_Dont_Cry_Bye_Bye_Baby_Baby_Good_Bye_.mid",
+        "progression": [
+            "Am",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Black_Sabbath/Sabbath_Bloody_Sabbath.2.mid",
+        "progression": [
+            "Eb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Metallica/For_Whom_the_Bell_Tolls.mid",
+        "progression": [
+            "Gb",
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Celine_Dion/Im_Alive.mid",
+        "progression": [
+            "G",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Hootie_and_the_Blowfish/Drowning.mid",
+        "progression": [
+            "Em",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Simply_Red/Something_Got_Me_Started.4.mid",
+        "progression": [
+            "D",
+            "Dm"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Wonder_Stevie/I_Just_Called_to_Say_I_Love_You.5.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Matia_Bazar/I_Feel_You.mid",
+        "progression": [
+            "Gb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Simply_Red/Something_Got_Me_Started.mid",
+        "progression": [
+            "D",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/blink-182/First_Date.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/I_Should_Have_Known_Better.mid",
+        "progression": [
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/The_Brazilian.1.mid",
+        "progression": [
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Boz_Scaggs/Low_Down.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Dave_Clark_Five/Glad_All_Over.1.mid",
+        "progression": [
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Alice_in_Chains/We_Die_Young.mid",
+        "progression": [
+            "Bbm",
+            "Db"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Carly_Simon/Mockingbird.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/White_Barry/Cant_Get_Enough_of_Your_Love,_Babe.mid",
+        "progression": [
+            "D",
+            "Am"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/IDOL_BILLY/Mony_Mony.mid",
+        "progression": [
+            "E",
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Rolling_Stones/Citadel.mid",
+        "progression": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Gibson_Brothers/Cuba.1.mid",
+        "progression": [
+            "Ebm",
+            "Ab"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Elvis_Presley/Down_in_the_Alley.mid",
+        "progression": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Madonna/La_Isla_Bonita.4.mid",
+        "progression": [
+            "Dbm",
+            "B"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Fatboy_Slim/Right_Here,_Right_Now.mid",
+        "progression": [
+            "Bb",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Brassens_Georges/LEpave.mid",
+        "progression": [
+            "A"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Stevens_Shakin_/You_Drive_Me_Crazy.2.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/What_Youre_Doing.mid",
+        "progression": [
+            "F",
+            "D"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/ZZ_Top/Tush.1.mid",
+        "progression": [
+            "C",
+            "F"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/U2/Elevation.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Oscar_Peterson/John_Browns_Body.mid",
+        "progression": [
+            "D",
+            "Eb"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Genesis/No_Son_of_Mine.mid",
+        "progression": [
+            "E"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/The_Beatles/Maggie_Mae.mid",
+        "progression": [
+            "G",
+            "C"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Neil_Diamond/Song_Sung_Blue.1.mid",
+        "progression": [
+            "C",
+            "G"
+        ]
+    },
+    {
+        "song": "/Users/zartuhan/Documents/ML_Project/lmd_clean/Jon_Secada/Just_Another_Day.2.mid",
+        "progression": [
+            "Em",
+            "D"
+        ]
+    }
+]

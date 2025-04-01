@@ -1,0 +1,87 @@
+import re
+import json
+# Load the extracted chord progressions
+input_file = "small_midi_chords_dataset.json"
+output_file = "cleaned_midi_chords_dataset.json"
+
+with open(input_file, "r") as f:
+    chord_data = json.load(f)
+
+# Enharmonic equivalence mapping
+enharmonic_map = {
+    "C#": "Db", "Db": "Db",
+    "D#": "Eb", "Eb": "Eb",
+    "F#": "Gb", "Gb": "Gb",
+    "G#": "Ab", "Ab": "Ab",
+    "A#": "Bb", "Bb": "Bb"
+}
+
+def normalize_chord_name(chord):
+    """Standardizes chord names and resolves enharmonic equivalents."""
+    chord = re.sub(r"maj$", "", chord)  # Remove 'maj' suffix
+    chord = re.sub(r"min$", "m", chord)  # Standardize 'min' -> 'm'
+    chord = re.sub(r"dim$", "m", chord)  # Convert diminished to minor
+    chord = re.sub(r"aug$", "", chord)  # Remove augmented symbol
+    
+    # Resolve enharmonic equivalents
+    root = re.match(r"[A-G]#?|[A-G]b?", chord)  # Extract root note
+    if root:
+        root = root.group()
+        if root in enharmonic_map:
+            chord = chord.replace(root, enharmonic_map[root])
+    
+    return chord
+
+def remove_redundant_chords(progression):
+    """Removes consecutive duplicate chords and redundant back-and-forth shifts."""
+    cleaned_progression = []
+    prev_chord = None
+    prev_prev_chord = None  # Track two steps back to detect back-and-forth patterns
+    
+    for chord in progression:
+        normalized_chord = normalize_chord_name(chord)
+        if normalized_chord != prev_chord and (prev_prev_chord != normalized_chord or prev_chord != normalized_chord):
+            cleaned_progression.append(normalized_chord)
+            prev_prev_chord = prev_chord
+            prev_chord = normalized_chord
+    
+    return cleaned_progression
+
+def remove_duplicate_chords(progression):
+    """Removes all duplicate chords while preserving order."""
+    return list(dict.fromkeys(progression))
+
+# Track removed progressions
+removed_progressions = []
+
+# Process all songs in the dataset
+cleaned_chord_data = {}
+for song, data in chord_data.items():
+    if "progression" in data:
+        cleaned_progression = remove_redundant_chords(data["progression"])
+        cleaned_progression = remove_duplicate_chords(cleaned_progression)  # Remove all duplicates
+        
+        # Filter out progressions with fewer than 3 unique chords instead of 4
+        if len(set(cleaned_progression)) >= 3:
+            cleaned_chord_data[song] = {
+                "key": data.get("key", "Unknown"),
+                "progression": cleaned_progression
+            }
+        else:
+            removed_progressions.append({"song": song, "progression": cleaned_progression})
+
+# Print how many progressions remain after cleaning
+print(f"Original dataset size: {len(chord_data)}")
+print(f"Remaining progressions after cleaning: {len(cleaned_chord_data)}")
+print(f"Removed progressions count: {len(removed_progressions)}")
+
+# Save the cleaned progressions to a new JSON file
+with open(output_file, "w") as f:
+    json.dump(cleaned_chord_data, f, indent=4)
+
+# Save removed progressions for review
+with open("removed_progressions.json", "w") as f:
+    json.dump(removed_progressions, f, indent=4)
+
+print(f"Cleaned chord progressions saved to {output_file}")
+print(f"Removed progressions saved to removed_progressions.json")
