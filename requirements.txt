@@ -1,0 +1,6 @@
+pretty_midi>=0.2,<1.0
+music21>=6,<8
+numpy>=1.21,<2.0
+scikit-learn>=1.0,<2.0
+matplotlib>=3.0,<4.0
+gensim>=4.0,<5.0
