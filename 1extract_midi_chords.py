@@ -1,31 +1,31 @@
-import os 
-import pretty_midi   # type: ignore
+import os
+import pretty_midi  # type: ignore
 import json
 import collections
 import re  # Import regex to remove octave numbers
-from music21 import chord, key, meter, stream # type: ignore
+from music21 import chord, key, meter, stream  # type: ignore
 import random
+import argparse
 
-# Define the dataset path
-dataset_path = "/Users/zartuhan/Documents/ML_Project/lmd_clean/"
 midi_chords_data = {}
 
-# Limit the number of files processed (for debugging)
-MAX_FILES = 100  # Increased sample size
+# Limit the number of files processed (for debugging). This value can be
+# overridden via command line arguments.
+MAX_FILES = 100
 processed_count = 0
 
 # Define harmonic instrument program numbers (MIDI standard)
 HARMONIC_INSTRUMENTS = list(range(0, 8)) + list(range(24, 32)) + list(range(40, 48)) + list(range(80, 88))
 
-# Collect all MIDI file paths
-midi_files = []
-for root, _, files in os.walk(dataset_path):
-    for file in files:
-        if file.endswith(".mid"):
-            midi_files.append(os.path.join(root, file))
-
-# Shuffle the list to ensure a wider selection of artists
-random.shuffle(midi_files)
+def collect_midi_files(dataset_dir):
+    """Recursively collects all MIDI file paths within the dataset."""
+    midi_files = []
+    for root, _, files in os.walk(dataset_dir):
+        for file in files:
+            if file.endswith(".mid"):
+                midi_files.append(os.path.join(root, file))
+    random.shuffle(midi_files)  # Shuffle to ensure a wider selection of artists
+    return midi_files
 
 def simplify_chord_name(m21_chord):
     """Simplifies the chord name to standard notation (Cmaj, Dmin, G7, etc.)."""
@@ -136,19 +136,31 @@ def extract_progressions(midi_file):
         print(f"Skipping {midi_file}: {e}")
         return "Unknown", []
 
-# Process a limited number of MIDI files
-output_file = "small_midi_chords_dataset.json"
+def main():
+    parser = argparse.ArgumentParser(description="Extract chord progressions from a MIDI dataset")
+    parser.add_argument("dataset_dir", help="Path to the root of the MIDI dataset")
+    parser.add_argument("--output", default="small_midi_chords_dataset.json", help="Output JSON file")
+    parser.add_argument("--max-files", type=int, default=MAX_FILES, help="Maximum number of MIDI files to process")
+    args = parser.parse_args()
 
-for midi_path in midi_files[:MAX_FILES]:
-    song_key, best_progression = extract_progressions(midi_path)
-    if best_progression:
-        midi_chords_data[midi_path] = {"key": song_key, "progression": best_progression}
-        processed_count += 1
-        print(f"Processed {processed_count}/{MAX_FILES}: {midi_path} ({song_key})")
+    dataset_path = args.dataset_dir
+    output_file = args.output
+    max_files = args.max_files
 
-# Final save
-output_file = "small_midi_chords_dataset.json"
-with open(output_file, "w") as f:
-    json.dump(midi_chords_data, f, indent=4)
+    midi_files = collect_midi_files(dataset_path)
 
-print(f"Processed {processed_count} MIDI files. Chord progressions saved to {output_file}.")
+    for midi_path in midi_files[:max_files]:
+        song_key, best_progression = extract_progressions(midi_path)
+        if best_progression:
+            rel_path = os.path.relpath(midi_path, dataset_path)
+            midi_chords_data[rel_path] = {"key": song_key, "progression": best_progression}
+            processed_count = len(midi_chords_data)
+            print(f"Processed {processed_count}/{max_files}: {rel_path} ({song_key})")
+
+    with open(output_file, "w") as f:
+        json.dump(midi_chords_data, f, indent=4)
+
+    print(f"Processed {len(midi_chords_data)} MIDI files. Chord progressions saved to {output_file}.")
+
+if __name__ == "__main__":
+    main()

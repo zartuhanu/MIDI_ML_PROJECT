@@ -3,6 +3,7 @@ import re
 import shutil
 import csv
 from collections import defaultdict
+import argparse
 
 def normalize_filename(filename):
     return re.sub(r'\.\d+(?=\.mid$)', '', filename)
@@ -57,9 +58,17 @@ def deduplicate_midi_dataset_by_length_with_logging(source_root, target_root, lo
 
     print(f"\n📝 Log saved to: {log_file}")
 
-# Example usage:
-source_dataset = "lmd_clean"
-target_dataset = "lmd_clean_deduplicated"
-log_output_file = "deduplication_log.csv"
+def main():
+    parser = argparse.ArgumentParser(description="Deduplicate MIDI files by length")
+    parser.add_argument("source_dataset", help="Path to the source dataset directory")
+    parser.add_argument("target_dataset", help="Directory to store the deduplicated dataset")
+    parser.add_argument("--log-file", default="deduplication_log.csv", help="Path for the CSV log file")
+    args = parser.parse_args()
 
-deduplicate_midi_dataset_by_length_with_logging(source_dataset, target_dataset, log_output_file)
+    deduplicate_midi_dataset_by_length_with_logging(
+        args.source_dataset, args.target_dataset, args.log_file
+    )
+
+
+if __name__ == "__main__":
+    main()
