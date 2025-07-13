@@ -1,9 +1,9 @@
 import os
-import pretty_midi  # type: ignore
+import pretty_midi  
 import json
 import collections
 import re  # Import regex to remove octave numbers
-from music21 import chord, key, meter, stream  # type: ignore
+from music21 import chord, key, meter, stream 
 import random
 import argparse
 
